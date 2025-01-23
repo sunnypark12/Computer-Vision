@@ -27,8 +27,8 @@ Project 3: Scene Recognition with Deep Learning
 - 3. Fine-tuning a pre-trained network
 - 4. Multi-Label Classification
 
-Project 4:
+Project 4: Semantic Segmentation Deep Learning
 
-Project 5:
+Project 5: Classifying Point Clouds with PointNet
 
 
