@@ -21,7 +21,11 @@ Project 2: SIFT Local Feature Matching and Camera Calibration
 - 5. Fundamental Matrix
 - 6. Fundamental matrix with RANSAC
 
-Project 3:
+Project 3: Scene Recognition with Deep Learning
+- 1. SimpleNet
+- 2. SimpleNet with additional modifications
+- 3. Fine-tuning a pre-trained network
+- 4. Multi-Label Classification
 
 Project 4:
 
