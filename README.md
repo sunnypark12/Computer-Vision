@@ -31,4 +31,9 @@ Project 4: Semantic Segmentation Deep Learning
 
 Project 5: Classifying Point Clouds with PointNet
 
+Proejct 6: Neural Radiance Fields (NeRF)
+- 1. 2D image representation
+- 2. NeRF Model and Volume Rendering
+- 3. Train and use NeRF on Lego Dataset
+
 
