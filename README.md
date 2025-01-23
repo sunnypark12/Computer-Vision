@@ -13,7 +13,13 @@ Project 1: Convolution and Hybrid Images
 - 3 Input/output shapes in PyTorch
 - 4 De-blurring using Fourier transform
 
-Project 2:
+Project 2: SIFT Local Feature Matching and Camera Calibration
+- 1. Interest point detection
+- 2. Feature Matching
+- 3. SIFT Descriptor
+- 4. Camera Projection Matrix
+- 5. Fundamental Matrix
+- 6. Fundamental matrix with RANSAC
 
 Project 3:
 
